@@ -10,11 +10,14 @@
 2. After successfull installation of ROS(indigo), we now install TurtleBot packages. Please copy the below link into 
   terminal and execute.
 
-  sudo apt-get install ros-indigo-turtlebot ros-indigo-turtlebot-apps ros-indigo-turtlebot-interactions ros-indigo-turtlebot-     simulator ros-indigo-kobuki-ftdi ros-indigo-rocon-remocon ros-indigo-rocon-qt-library ros-indigo-ar-track-alvar-msgs
+      sudo apt-get install ros-indigo-turtlebot ros-indigo-turtlebot-apps ros-indigo-turtlebot-interactions 
+      ros-indigo-turtlebot-simulator ros-indigo-kobuki-ftdi ros-indigo-rocon-remocon ros-indigo-rocon-qt-library 
+      ros-indigo-ar-track-alvar-msgs
 
-  Test the TurtleBot installation by running the command:$ roscore. This will give you 
-  started core service [/rosout] if installed correctly. 
-  you should start and keep this up whenever you use TurtleBot.
+   Test the TurtleBot installation by running the command:$ roscore. This will give you, 
+    started core service [/rosout] 
+   if installed correctly. 
+   you should start and keep this up whenever you use TurtleBot.
   
 3.1 Gazebo: Now we will make operations on TurtleBot in Gazebo GUI which provides overview about the environment to the robot.
    First launch Gazebo by executing the below command on new terminal,
