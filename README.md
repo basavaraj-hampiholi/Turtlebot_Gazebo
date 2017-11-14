@@ -27,10 +27,10 @@
       
     You can find more information about Gazebo in http://gazebosim.org/tutorials?cat=guided_b&tut=guided_b2
    
-3.2 Rviz: viz is a 3D visualization environment for the ROS. 
-    While Gazebo is running, launch Rviz in a new terminal:
+3.2 Rviz: viz is a 3D visualization environment for the ROS. While Gazebo is running, 
+     launch Rviz in a new terminal:
     
-     roslaunch turtlebot_rviz_launchers view_robot.launch
+         roslaunch turtlebot_rviz_launchers view_robot.launch
    
    You would see a TurtleBot.
    
