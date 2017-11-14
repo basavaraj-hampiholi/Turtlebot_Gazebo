@@ -21,6 +21,7 @@
 
 
 3. Simulation
+
 3.1 Gazebo: Now we will make operations on TurtleBot in Gazebo GUI which provides overview about the environment 
     to the robot. First launch Gazebo by executing the below command on new terminal,
          roslaunch turtlebot_gazebo turtlebot_world.launch
@@ -33,7 +34,7 @@
     
          roslaunch turtlebot_rviz_launchers view_robot.launch
    
-   You would see a TurtleBot.
+     You would see a TurtleBot.
    
 
 
