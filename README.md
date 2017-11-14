@@ -25,7 +25,8 @@
     to the robot. First launch Gazebo by executing the below command on new terminal,
          roslaunch turtlebot_gazebo turtlebot_world.launch
       
-    You can find more information about Gazebo in http://gazebosim.org/tutorials?cat=guided_b&tut=guided_b2
+    You can find more information about Gazebo in 
+     http://gazebosim.org/tutorials?cat=guided_b&tut=guided_b2
    
 3.2 Rviz: viz is a 3D visualization environment for the ROS. While Gazebo is running, 
      launch Rviz in a new terminal:
