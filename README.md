@@ -2,7 +2,8 @@
 1. Installation of ROS.
     Turtlebot is supported by Indigo version of the ROS. Indigo version requires Ubuntu 14.04 LTS. The following link 
     explain the installation of indigo version of ROS in Ubuntu 14.04 LTS.
-    http://wiki.ros.org/indigo/Installation/Ubuntu
+    
+       http://wiki.ros.org/indigo/Installation/Ubuntu
     Please choose the Desktop-Full Install option which is recommended one. 
 
 
@@ -15,7 +16,9 @@
       ros-indigo-ar-track-alvar-msgs
 
    Test the TurtleBot installation by running the command:$ roscore. This will give you, 
-    started core service [/rosout] 
+   
+      started core service [/rosout] 
+      
    if installed correctly. 
    you should start and keep this up whenever you use TurtleBot.
 
